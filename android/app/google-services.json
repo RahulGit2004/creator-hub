@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "852175132975",
+    "project_id": "creator-hub-app-51088",
+    "storage_bucket": "creator-hub-app-51088.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852175132975:android:95356abbae0ee7250d29da",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCTdGde8_v0Q513TCE6mCV-RO30P5kVkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
